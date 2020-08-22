@@ -1,6 +1,10 @@
-### Arthur Neves Monteiro,  
+### English
+Web Developer, clean and effective codes lover! 
+Always in love with coding and web development. I really apreciate to fin creative and simple solutions for complex problems.
+Nowadays intensifying my activities with React and Java, but also playing around with game development with Unreal Engine and C++ (only at the free times).
 
-Desenvolvedor, amante de códigos limpos e efetivos. 
+### Português 
+Desenvolvedor Web, amante de códigos limpos e efetivos. 
 Apaixonado por desenvolvimento web, gosto de encontrar soluções criativas e simples para resolver problemas complexos. 
 Atualmente intensificando minhas atividades em React e Java, porém nos tempos livres gosto de desenvolver jogos na Unreal Engine usando C++ (:
 
