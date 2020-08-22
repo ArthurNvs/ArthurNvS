@@ -1,6 +1,6 @@
 ### English
 Web Developer, clean and effective codes lover! 
-Always in love with coding and web development. I really apreciate to fin creative and simple solutions for complex problems.
+Always in love with coding and web development. I really apreciate to find creative and simple solutions for complex problems.
 Nowadays intensifying my activities with React and Java, but also playing around with game development with Unreal Engine and C++ (only at the free times).
 
 ### Português 
