@@ -9,3 +9,6 @@ Apaixonado por desenvolvimento, gosto de encontrar soluções criativas e simple
 Atualmente intensificando minhas atividades em Angular e Java, porém nos tempos livres gosto de desenvolver jogos na Unreal Engine usando C++ (:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-neves-monteiro/)](https://www.linkedin.com/in/arthur-neves-monteiro/)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurnvs&show_icons=true&theme=radical)
