@@ -3,11 +3,6 @@ Backend Developer, clean and effective codes lover!
 Always in love with coding and mobile/web development. I really apreciate to find creative and simple solutions for complex problems.
 Nowadays intensifying my activities with iOS and Swift, but also working hard with Java and Spring.
 
-### Português 
-Desenvolvedor Backend, amante de códigos limpos e efetivos. 
-Apaixonado por desenvolvimento, gosto de encontrar soluções criativas e simples para resolver problemas complexos. 
-Atualmente intensificando minhas atividades em Swift/iOS, mas sigo firme trabalhando com Java e Spring.
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-neves-monteiro/)](https://www.linkedin.com/in/arthur-neves-monteiro/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurnvs&show_icons=true&theme=dark)
