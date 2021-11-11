@@ -1,7 +1,7 @@
 ### Arthur Neves Monteiro
 I'm a backend developer professional, and also a clean and effective codes lover! 
 
-Always in love with mobile/web development. I really apreciate to find creative and simple solutions for complex problems.
+Always in love with mobile/web development. My first goal is to find creative and simple solutions for complex problems.
 
 Nowadays intensifying my activities with **iOS and Swift/SwiftUI**, but also working hard with **Java and Spring daily**.
 
