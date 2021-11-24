@@ -1,5 +1,5 @@
 ### Arthur Neves Monteiro
-I'm a backend developer professional, and also a clean and effective codes lover! 
+I'm a professional software developer, and also a clean and effective codes lover! 
 
 Always in love with mobile/web development. My first goal is to find creative and simple solutions for complex problems.
 
