@@ -1,6 +1,6 @@
 ### Hello! I'am Arthur Neves,
 
-and I'm a professional software developer, clean and effective codes lover.
+a professional software developer, clean and effective codes lover.
 
 In love with mobile/web development and always doing my best to find creative and simple solutions for complex problems.
 
