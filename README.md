@@ -2,7 +2,7 @@
 
 a professional software developer that really loves clean code, clean architecure and TDD. 
 
-Always prioritizing effective codes I'm a backend developer in the market since oct/2020, always doing my best to find creative and simple solutions for any complex problem.
+Always prioritizing effective codes, I'm a backend developer in the market since oct/2020, doing my best to find creative and simple solutions for any complex problem.
 Today acting as a backend developer in a huge international project from my USA company's client.
 
 
