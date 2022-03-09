@@ -1,10 +1,8 @@
 ### I'am Arthur Neves,
-
-a professional software developer! I love clean code, testing and smart architectures, always prioritizing effective codes.
-
-In love with mobile/web development and always doing my best to find creative and simple solutions for complex problems.
-
-Nowadays intensifying my activities in **NodeJs and native iOS development**, also I'm working hard with **Java/Spring (microservices) and its tools daily** on my job.
-
+a professional software developer! I love clean code, clean architecure and TDD, always prioritizing effective codes.
+Backend developer in the market since oct/2020, I'm always doing my best to find creative and simple solutions for complex problems.
+Acting as a backend developer in a huge international project from my company.
+I'm strongly moving towards my dream of becoming a native iOS developer, learning the best practices, the most used frameworks and how to create a good UX and UI based on Apple's guidelines.
+📱 💻 👨🏻‍💻
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnvs&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
