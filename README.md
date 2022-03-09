@@ -1,8 +1,9 @@
 ### I'am Arthur Neves,
 
-a professional software developer that really loves clean code, clean architecure and TDD, and always prioritizing effective codes.
-Backend developer in the market since oct/2020, I'm always doing my best to find creative and simple solutions for complex problems.
-Acting as a backend developer in a huge international project from my company.
+a professional software developer that really loves clean code, clean architecure and TDD. 
+
+Always prioritizing effective codes I'm a backend developer in the market since oct/2020, always doing my best to find creative and simple solutions for any complex problem.
+Today acting as a backend developer in a huge international project from my USA company's client.
 
 
 **I'm strongly moving towards my dream of becoming a native iOS developer, learning the best practices, the most used frameworks and how to create a good UX and UI based on Apple's guidelines.**
