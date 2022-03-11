@@ -1,4 +1,4 @@
-### Hey there, stragner!
+### Hey there, stranger!
 
 I'am Arthur Neves, a **professional software developer** that really loves clean code, clean architecure and TDD. 
 
