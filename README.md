@@ -10,3 +10,10 @@ Working hard on my personal project - an iPhone App - that I want to launch in t
 📱 💻 👨🏻‍💻
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurnvs&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+<div style="display: inline_block"><br>
+  <a href="https://github.com/ArthurNvs">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Badarando&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badarando&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
