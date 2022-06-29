@@ -1,9 +1,9 @@
 ### Arthur Neves - Backend / Mobile iOS
 
-Hello! As you can see I'm a **professional software developer** that really loves clean code, clean architecure, TDD and all best practices. 
+Hello! As you can see I'm a **professional software developer** that really loves clean code, clean architecure, TDD and all coding best practices. 
 
-Always seeking effective codes, I'm at the market since 2019, doing my best to find creative and simple solutions for any complex problems.
-Today acting as Java backend developer in a huge international project at one of our company biggest clients - an American mass media corporation.
+Always seeking an effective code, I'm at the market since 2019, doing my best to find creative and simple solutions for any complex problems.
+Today acting as Java backend developer in a very dynamic and complex international project at one of CI&T's biggest clients - an American mass media corporation.
 
 **I'm also a starter native iOS developer, learning the best practices, the most used frameworks and how to create a good UX and UI based on Apple's guidelines.**
 Working hard on my personal project - an iPhone App - that I want to launch in the App Store.
