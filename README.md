@@ -3,7 +3,7 @@
 Hello! As you can see I'm a **professional software developer** that really appreciate good coding practices.
 
 I've been officially in the industry from 2019 to 2024, always doing my best to find creative and simple solutions.
-I worked in the industry as a Java backend developer in very dynamic and complex projects at British Telecom, iHeartMedia and some other brazilian companies.
+I worked in the industry as a Java backend developer in very dynamic and complex projects at British Telecom, iHeartMedia and also in some brazilian companies.
 
 Now I'm coding on my own, **following the path of game development.** And I believe that one day I'll be able to help people through art, knowledge, and technology.
 #
