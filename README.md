@@ -1,11 +1,11 @@
-### Arthur Neves Monteiro
+### Arthur Neves Monteiro (Games)
 
-Hello! As you can see I'm an **ex professional software developer** that really appreciate good coding practices.
+Hello! As you can see I'm a **professional software developer** that really appreciate good coding practices.
 
-I've been officially in the industry from 2019 to 2024, always doing my best to find creative and simple solutions for any complex problems.
-My last developer job was as a Java backend developer in a very dynamic and complex project at British Telecom, but I also worked at iHeartMedia and other brazilian companies.
+I've been officially in the industry from 2019 to 2024, always doing my best to find creative and simple solutions.
+I worked in the industry as a Java backend developer in very dynamic and complex projects at British Telecom, iHeartMedia and some other brazilian companies.
 
-**I'm now on the path of game development.** And I believe that one day I'll be able to help people through art, knowledge, and technology.
+I'll be now coding on my own, **following the path of game development.** And I believe that one day I'll be able to help people through art, knowledge, and technology.
 #
 
 
