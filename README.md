@@ -1,13 +1,11 @@
-### Arthur Neves - Backend / Mobile iOS
+### Arthur Neves Monteiro
 
-Hello! As you can see I'm a **professional software developer** that really loves clean code, clean architecure, TDD and all coding best practices. 
+Hello! As you can see I'm an **ex professional software developer** that really appreciate good coding practices.
 
-Always seeking an effective code, I'm at the market since 2019, doing my best to find creative and simple solutions for any complex problems.
-Today acting as Java backend developer in a very dynamic and complex international project at one of CI&T's biggest clients - an American mass media corporation.
+I've been officially in the industry from 2019 to 2023, always doing my best to find creative and simple solutions for any complex problems.
+My last developer job was as a Java backend developer in a very dynamic and complex project at British Telecom, but I also worked at iHeartMedia and other brazilian companies.
 
-**I'm also a starter native iOS developer, learning the best practices, the most used frameworks and how to create a good UX and UI based on Apple's guidelines.**
-Working hard on my personal project - an iPhone App - that I want to launch in the App Store.
-📱 💻 👨🏻‍💻
+**I'm now on the path of game development.** And I believe that one day I'll be able to help people through art, knowledge, and technology.
 #
 
 
