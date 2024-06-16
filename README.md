@@ -1,6 +1,6 @@
 ### Arthur Neves Monteiro - Game Development Enthusiast
 
-Hello! As you can see I'm a **professional software developer** that really appreciate good coding practices.
+Hello! As you can see in my bio, I'm a backend **professional software developer** that really appreciate good coding practices.
 
 I've been officially in the industry from 2019 to 2024, always doing my best to find creative and simple solutions.
 I worked in the industry as a Java backend developer in very dynamic and complex projects at British Telecom, iHeartMedia and also in some brazilian companies.
