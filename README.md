@@ -1,4 +1,4 @@
-### Arthur Neves Monteiro (Games)
+### Arthur Neves Monteiro (Game Development Enthusiast)
 
 Hello! As you can see I'm a **professional software developer** that really appreciate good coding practices.
 
