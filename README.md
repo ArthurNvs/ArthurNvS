@@ -5,7 +5,7 @@ Hello! As you can see in my bio, I'm a backend **professional software developer
 I've been officially in the industry from 2019 to 2024, always doing my best to find creative and simple solutions.
 I worked in the industry as a Java backend developer in very dynamic and complex projects at British Telecom, iHeartMedia and also in some brazilian companies.
 
-Now I've been coding on my own, **following the path of open source game development.** And I believe that one day I'll be able to help people through art, knowledge, and technology.
+Now I've been coding on my own, **following the path of open source Godot game development.** And I believe that one day I'll be able to help people through art, knowledge, and technology.
 #
 
 
